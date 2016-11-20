@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.Server.Kestrel": "1.0.1",
           "Microsoft.Extensions.Logging.Console": "1.0.0",
           "Microsoft.NET.Sdk.Web": "1.0.0-alpha-20161104-2-112",
-          "Microsoft.NETCore.App": "1.0.1"
+          "Microsoft.NETCore.App": "1.0.1",
+          "Newtonsoft.Json": "9.0.1"
         },
         "runtime": {
           "SoccerIt.User.WebApi.dll": {}

@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{20B9FE83-E5DB-45A7-B4B5-5875BAF927C1}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SoccerIt.User.WebApi/Controllers/UserController.cs">
     <Files>
-      <File FileName="SoccerIt.User.WebApi/Controllers/UserController.cs" Line="26" Column="38" />
-      <File FileName="SoccerIt.User.WebApi/Dto/UserModel.cs" Line="9" Column="39" />
+      <File FileName="SoccerIt.User.WebApi/Controllers/UserController.cs" Line="7" Column="3" />
+      <File FileName="SoccerIt.User.WebApi/Startup.cs" Line="34" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

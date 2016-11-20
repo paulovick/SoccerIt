@@ -4,7 +4,7 @@ using SoccerIt.User.WebApi.Dto;
 
 namespace SoccerIt.User.WebApi.Controllers
 {
-	[Route("User")]
+	[Route("api/[controller]")]
 	public class UserController : Controller
 	{
 		[HttpGet]
@@ -20,13 +20,13 @@ namespace SoccerIt.User.WebApi.Controllers
 		}
 
 		[HttpPost]
-		public IActionResult Post(UserModel request)
+		public IActionResult Post([FromBody]UserModel request)
 		{
 			return this.Ok("Post: " + request.Id);
 		}
 
 		[HttpPut]
-		public IActionResult Put(UserModel request)
+		public IActionResult Put([FromBody]UserModel request)
 		{
 			return this.Ok("Put: " + request.Id);
 		}
