@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SoccerIt.User.Console")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SoccerIt.User.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SoccerIt.User.Console")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SoccerIt.User.Console")]
+[assembly: System.Reflection.AssemblyProductAttribute("SoccerIt.User.WebApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SoccerIt.User.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 

@@ -3,20 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Presentation", "0-Presentation", "{885A7E53-D79E-488B-AEAE-DD507D39DB05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.Console", "SoccerIt.User.Console\SoccerIt.User.Console.csproj", "{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.WebApi", "SoccerIt.User.WebApi\SoccerIt.User.WebApi.csproj", "{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Debug|x86.Build.0 = Debug|Any CPU
-		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Release|x86.ActiveCfg = Release|Any CPU
-		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Release|x86.Build.0 = Release|Any CPU
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x86.ActiveCfg = Debug|x86
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x86.Build.0 = Debug|x86
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x86.ActiveCfg = Release|x86
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x86.Build.0 = Release|x86
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x64.ActiveCfg = Debug|x64
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x64.Build.0 = Debug|x64
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x64.ActiveCfg = Release|x64
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7} = {885A7E53-D79E-488B-AEAE-DD507D39DB05}
+		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4} = {885A7E53-D79E-488B-AEAE-DD507D39DB05}
 	EndGlobalSection
 EndGlobal

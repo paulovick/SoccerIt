@@ -1,31 +1,15 @@
-﻿<Properties StartupConfiguration="{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SoccerIt.User.Console/Program.cs">
+﻿<Properties StartupConfiguration="{20B9FE83-E5DB-45A7-B4B5-5875BAF927C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoccerIt.User.WebApi/Controllers/UserController.cs">
     <Files>
-      <File FileName="SoccerIt.User.Console/Program.cs" Line="13" Column="4" />
-      <File FileName="SoccerIt.User.Console/Mongo/MongoController.cs" Line="22" Column="4" />
-      <File FileName="SoccerIt.User.Console/Mongo/User.cs" Line="20" Column="4" />
+      <File FileName="SoccerIt.User.WebApi/Controllers/UserController.cs" Line="26" Column="38" />
+      <File FileName="SoccerIt.User.WebApi/Dto/UserModel.cs" Line="9" Column="39" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="User" expanded="True">
-            <Node name="0-Presentation" expanded="True">
-              <Node name="SoccerIt.User.Console" expanded="True">
-                <Node name="Dependencies" expanded="True" />
-                <Node name="Mongo" expanded="True" />
-                <Node name="Program.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.0-Presentation.SoccerIt.User.Console PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.0-Presentation.SoccerIt.User.WebApi PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
