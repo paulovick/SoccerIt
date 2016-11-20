@@ -4,3 +4,7 @@
 /Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/obj/x86/Debug/netcoreapp1.0/SoccerIt.User.WebApi.AssemblyInfo.cs
 /Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/obj/x86/Debug/netcoreapp1.0/SoccerIt.User.WebApi.dll
 /Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/obj/x86/Debug/netcoreapp1.0/SoccerIt.User.WebApi.pdb
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/bin/x86/Debug/netcoreapp1.0/SoccerIt.User.Domain.dll
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/bin/x86/Debug/netcoreapp1.0/SoccerIt.User.ServiceLibrary.dll
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/bin/x86/Debug/netcoreapp1.0/SoccerIt.User.Domain.pdb
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.WebApi/bin/x86/Debug/netcoreapp1.0/SoccerIt.User.ServiceLibrary.pdb

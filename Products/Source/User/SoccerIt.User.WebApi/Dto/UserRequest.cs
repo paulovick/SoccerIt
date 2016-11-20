@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 namespace SoccerIt.User.WebApi.Dto
 {
-	public class UserModel
+	public class UserRequest
 	{
 		public int Id { get; set; }
 		public string Username { get; set; }

@@ -42,6 +42,19 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Dto\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Mappers\Contracts\" />
+    <Folder Include="Mappers\Implementations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SoccerIt.User.Domain\SoccerIt.User.Domain.csproj">
+      <Project>{A4FADB43-355F-49C9-B0ED-C48998D5452B}</Project>
+      <Name>SoccerIt.User.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SoccerIt.User.ServiceLibrary\SoccerIt.User.ServiceLibrary.csproj">
+      <Project>{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}</Project>
+      <Name>SoccerIt.User.ServiceLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

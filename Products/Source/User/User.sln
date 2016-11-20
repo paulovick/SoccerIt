@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Presentation", "0-Presentation", "{885A7E53-D79E-488B-AEAE-DD507D39DB05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.WebApi", "SoccerIt.User.WebApi\SoccerIt.User.WebApi.csproj", "{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Application", "1-Application", "{F3FA8A1F-BF51-442D-8448-A6E2D8C9920F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{3BFD4362-FA42-4B60-BF4B-A8065D8FF4A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.WebApi", "SoccerIt.User.WebApi\SoccerIt.User.WebApi.csproj", "{68CF26E9-D3A2-4721-B12F-29B74A9F5043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.Domain", "SoccerIt.User.Domain\SoccerIt.User.Domain.csproj", "{A4FADB43-355F-49C9-B0ED-C48998D5452B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.ServiceLibrary", "SoccerIt.User.ServiceLibrary\SoccerIt.User.ServiceLibrary.csproj", "{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +21,34 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x86.ActiveCfg = Debug|x86
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x86.Build.0 = Debug|x86
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x86.ActiveCfg = Release|x86
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x86.Build.0 = Release|x86
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x64.ActiveCfg = Debug|x64
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Debug|x64.Build.0 = Debug|x64
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x64.ActiveCfg = Release|x64
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4}.Release|x64.Build.0 = Release|x64
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Debug|x86.ActiveCfg = Debug|x86
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Debug|x86.Build.0 = Debug|x86
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Release|x86.ActiveCfg = Release|x86
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Release|x86.Build.0 = Release|x86
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Debug|x64.ActiveCfg = Debug|x64
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Debug|x64.Build.0 = Debug|x64
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Release|x64.ActiveCfg = Release|x64
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043}.Release|x64.Build.0 = Release|x64
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Debug|x86.ActiveCfg = Debug|x86
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Debug|x86.Build.0 = Debug|x86
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Release|x86.ActiveCfg = Release|x86
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Release|x86.Build.0 = Release|x86
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Debug|x64.ActiveCfg = Debug|x64
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Debug|x64.Build.0 = Debug|x64
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Release|x64.ActiveCfg = Release|x64
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B}.Release|x64.Build.0 = Release|x64
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Debug|x86.ActiveCfg = Debug|x86
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Debug|x86.Build.0 = Debug|x86
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Release|x86.ActiveCfg = Release|x86
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Release|x86.Build.0 = Release|x86
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Debug|x64.ActiveCfg = Debug|x64
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Debug|x64.Build.0 = Debug|x64
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Release|x64.ActiveCfg = Release|x64
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{3B82D0B8-AB34-483F-B8F6-4486F15DC8D4} = {885A7E53-D79E-488B-AEAE-DD507D39DB05}
+		{68CF26E9-D3A2-4721-B12F-29B74A9F5043} = {885A7E53-D79E-488B-AEAE-DD507D39DB05}
+		{A4FADB43-355F-49C9-B0ED-C48998D5452B} = {3BFD4362-FA42-4B60-BF4B-A8065D8FF4A1}
+		{BC799D8A-774F-45D9-A5D7-8D4EE6D338D8} = {F3FA8A1F-BF51-442D-8448-A6E2D8C9920F}
 	EndGlobalSection
 EndGlobal

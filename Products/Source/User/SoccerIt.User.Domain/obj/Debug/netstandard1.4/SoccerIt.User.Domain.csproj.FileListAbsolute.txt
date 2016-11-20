@@ -1,0 +1,6 @@
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Domain/bin/Debug/netstandard1.4/SoccerIt.User.Domain.dll
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Domain/bin/Debug/netstandard1.4/SoccerIt.User.Domain.pdb
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Domain/obj/Debug/netstandard1.4/SoccerIt.User.Domain.csprojResolveAssemblyReference.cache
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Domain/obj/Debug/netstandard1.4/SoccerIt.User.Domain.AssemblyInfo.cs
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Domain/obj/Debug/netstandard1.4/SoccerIt.User.Domain.dll
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Domain/obj/Debug/netstandard1.4/SoccerIt.User.Domain.pdb
