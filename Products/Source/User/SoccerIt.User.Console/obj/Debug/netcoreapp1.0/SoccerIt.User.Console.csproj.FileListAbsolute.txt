@@ -1,0 +1,6 @@
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Console/bin/Debug/netcoreapp1.0/SoccerIt.User.Console.dll
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Console/bin/Debug/netcoreapp1.0/SoccerIt.User.Console.pdb
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Console/obj/Debug/netcoreapp1.0/SoccerIt.User.Console.csprojResolveAssemblyReference.cache
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Console/obj/Debug/netcoreapp1.0/SoccerIt.User.Console.AssemblyInfo.cs
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Console/obj/Debug/netcoreapp1.0/SoccerIt.User.Console.dll
+/Users/pautorrents/Documents/Apps/SoccerIt/Products/Source/User/SoccerIt.User.Console/obj/Debug/netcoreapp1.0/SoccerIt.User.Console.pdb

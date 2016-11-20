@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{83961268-02F0-41CF-8C94-4CDC87B5A671}</ProjectGuid>
+    <ProjectGuid>{AB4FA689-DB00-48BE-A4EB-9A3C654E8645}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SoccerIt.User.WebApi</RootNamespace>
-    <AssemblyName>SoccerIt.User.WebApi</AssemblyName>
+    <RootNamespace>SoccerIt.User.Console</RootNamespace>
+    <AssemblyName>SoccerIt.User.Console</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

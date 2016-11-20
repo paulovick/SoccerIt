@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Presentation", "0-Presentation", "{885A7E53-D79E-488B-AEAE-DD507D39DB05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerIt.User.Console", "SoccerIt.User.Console\SoccerIt.User.Console.csproj", "{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Debug|x86.Build.0 = Debug|Any CPU
+		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Release|x86.ActiveCfg = Release|Any CPU
+		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0AD767F-0CC9-4005-9EF8-D24DA1CCEBE7} = {885A7E53-D79E-488B-AEAE-DD507D39DB05}
+	EndGlobalSection
+EndGlobal
